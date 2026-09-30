@@ -1,8 +1,4 @@
-"""Six on-chain / market safety checks used by the sniper.
-
-The functions are extracted from the original notebook and exposed as
-callable Python functions so the notebook becomes a thin orchestration layer.
-"""
+"""Six on-chain / market safety checks
 
 from __future__ import annotations
 
